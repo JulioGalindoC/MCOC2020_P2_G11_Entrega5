@@ -9,6 +9,7 @@ https://github.com/JulioGalindoC/MCOC2020_P2_G11_Entrega5/main/DiseñoInicialPu
 
 https://github.com/JulioGalindoC/MCOC2020_P2_G11_Entrega5/blob/main/Disen%CC%83oInicialPuente.png
 
+ ![Puente](DiseñoInicialPuente.png) 
 Las propiedades para todas las barras en primera instancia fueron las siguentes: 
 
 - A = (1.1*cm)**2
