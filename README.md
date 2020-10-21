@@ -12,4 +12,22 @@ Las propiedades para todas las barras en primera instancia fueron las siguentes:
 - A = (1.1*cm)**2
 - r = sqrt(A/3.141593)
 - props = [r, r, 200*GPa, 7600*kg/m**3, 420*MPa]
+
+Las iteraciones se pueden ver en la siguiente tabla:
+
+Iteracion	Fecha max. arco  z [m]	Peso	Comentario
+
+1	115	22485	Todas las areas en 1.1 – NO CUMPLE EL DISEÑO
+2	115	76366	CUMPLE DISEÑO
+3	115	79433	CUMPLE DISEÑO
+4	120	109235	CUMPLE DISEÑO
+5	112	69409	CUMPLE DISEÑO
+6	110	67277	CUMPLE DISEÑO
+7	108	70058	CUMPLE DISEÑO
+8	106	80722	CUMPLE DISEÑO
+9	125	151166	CUMPLE DISEÑO
+10	111	67794	CUMPLE DISEÑO
+
+   
+
  
