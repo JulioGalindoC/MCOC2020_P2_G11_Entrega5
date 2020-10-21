@@ -57,4 +57,5 @@ Se ha optimizado el puente en dos etapas en forma paralela. Partiendo de una geo
 En segunda instancia se ha iterado con la altura total del arco. Para cada variación de altura se ha efectuado la optimización de las características geométricas hasta llegar a la condición de diseño.
 
 En el gráfico siguiente se presentan los resultados:
+
 ![Peso-AlturaArco](Peso-AlturaArco.jpg)
