@@ -55,3 +55,6 @@ RESULTADOS FINALES:
 Se ha optimizado el puente en dos etapas en forma paralela. Partiendo de una geometría inicial, se han adoptaco areas de 1,1 cm2 para todas las barras y se ha realizado la optimización de las caracteristicas geometricas de las barras. Para este proposito ha sido necesario iterar de 2 a 3 veces hasta obtener que los esfuerzos internos sean satisfactoramente resistidos. Esta iteración surge del modelo hiperestatico de la estructura elegida. 
 
 En segunda instancia se ha iterado con la altura total del arco. Para cada variación de altura se ha efectuado la optimización de las caracteristicas geométricas hasta llegar a la condición de diseño.
+
+En el gráfico siguiente se presentan los resultados:
+![Peso-AlturaArco](Peso-AlturaArco.jpg)
