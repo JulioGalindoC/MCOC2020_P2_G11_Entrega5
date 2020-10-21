@@ -38,3 +38,9 @@ En la siguinete imágen se presentan los factores de utilización para la iterac
  
  ![Iteracion0](Iteracion0.png) 
  
+Como se puede ver en la imágen hay valores para los factores de utilización mayores a 1.
+ 
+A continuación se presenta una imagen donde se ven los factores de utilización despues del primer rediseño (CUMPLE DISEÑO) donde solo se cambiaron las propiedades de las barras pero la geometría del puente permanece constante:
+
+![Iteracion1](Iteracion1.png)
+
