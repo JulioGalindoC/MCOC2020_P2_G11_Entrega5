@@ -44,3 +44,8 @@ A continuación se presenta una imagen donde se ven los factores de utilización
 
 ![Iteracion1](Iteracion1.png)
 
+En este caso se puede ver como los valores de los factores de utilización ya no sobrepasan el uno. Hay que tener en consideración que la respuesta aún no es la optima.
+
+Como se dijo anteriormente el minimo se encontro en la iteración 6 y acontinuación se presenta una imagen con algunos de sus factores de utilización:
+
+![IteracionFinal](IteracionFinal.png)
