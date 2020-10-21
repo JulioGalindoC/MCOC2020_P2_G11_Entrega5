@@ -5,7 +5,7 @@ Al ser la luz de 215[m] la distancia entre nodos del tablero en el eje x resulto
 
 A continuacion se busco una geometría lo más optima posible. La primera solución planteada fue la utilización de un arco en forma de catenaria invertida que pase por tres puntos, el punto inicial fue el punto 7 y el punto final el punto 28 (como se especifica en el enunciado), el punto medio del arco se planteo en z = 115[m]. Es importante mencionar que al hacer los rediseños, se cambiaron tanto las propiedades de cada barra como la flecha del arco. El diseño preliminar se puede apreciar en la siguente imagen:
 
-https://raw.githubusercontent.com/JulioGalindoC/MCOC2020_P2_G11_Entrega5/main/assets/DiseñoInicialPuente.png 
+https://raw.githubusercontent.com/JulioGalindoC/MCOC2020_P2_G11_Entrega5/main/DiseñoInicialPuente.png 
 
 Las propiedades para todas las barras en primera instancia fueron las siguentes: 
 
