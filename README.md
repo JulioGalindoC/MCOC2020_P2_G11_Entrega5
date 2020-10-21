@@ -36,5 +36,5 @@ Los nodos y las propiedades de todas las barras para lograr ese mínimo se encue
 
 En la siguinete imágen se presentan los factores de utilización para la iteracion 1 (NO CUMPLE EL DISEÑO):
  
- ![Iteracion0](Iteracin0.png) 
+ ![Iteracion0](Iteracion0.png) 
  
