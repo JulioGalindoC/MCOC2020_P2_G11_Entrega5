@@ -33,4 +33,7 @@ Iteración	|Fecha máx. arco  z [m]|	Peso|	Comentario
    
 De la tabla se desprende que el optimo (menor peso) se obtiene en la iteración número 6. 
 Los nodos y las propiedades de todas las barras para lograr ese mínimo se encuentran en los archivos caso_D.py y caso_L.py en los que también se definen los casos de análisis.
+
+En la siguinete imágen se presentan los factores de utilización para la iteracion 1 (NO CUMPLE EL DISEÑO):
+
  
